@@ -41,7 +41,7 @@ Follow these steps to setup and run the project:
     Run Jupyter notebook on the required port 8999:
 
     ```bash
-    jupyter notebook --port=8999
+    jupyter-lab --port 8999
     ```
 
 Now, you should be able to open the notebook in your browser and run the code.
