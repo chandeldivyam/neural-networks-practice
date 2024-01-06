@@ -3,3 +3,5 @@ matplotlib
 ipykernel
 jupyterlab
 pandas
+d2l
+torchvision
